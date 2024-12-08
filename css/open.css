@@ -1,0 +1,14 @@
+.save{
+
+    font-size:50px; 
+    background-color: black;
+    color:darkgoldenrod;
+    text-align: center;
+    margin-top:20% ;
+    margin-left: 15%;
+   /* padding:5% ; */
+
+}
+#open{
+    display: flex;
+}

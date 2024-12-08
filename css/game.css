@@ -1,0 +1,41 @@
+
+#grid{
+    height: 1000px;
+    width: 800px;
+     display: flex;
+        flex-direction: row-reverse;
+        align-content: stretch;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-left: 500px;
+        border: 4px;
+        border-color: chocolate;
+        margin-top: 100px;
+    }
+    #number{
+        height: 50px;
+        margin-left: 840px;
+        /* text-align: center; */
+    }
+    .score{
+        color: darkgoldenrod;
+        font-size: 50px;
+        margin-left: 1500px;
+        margin-top: 0px;
+    }
+    .stuperColor {
+        color: darkgoldenrod;
+        font-size: 50px;
+       
+      }
+    
+      .stuper{
+        color: darkgoldenrod;
+        font-size: 50px;
+        margin-left: 1500px;
+        margin-top: 0px;
+      }
+    
+    
+    
